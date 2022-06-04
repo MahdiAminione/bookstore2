@@ -1,0 +1,29 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>صفحه 2 کتاب خانه</title>
+  <link href='http://www.fontonline.ir/css/BYekan.css' rel='stylesheet' type='text/css'>
+  <link href="book2.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="head">
+
+<h2>این صفحه هنوز کامل نشده است</h2>
+<p>این صفحه به طور موقت نمایش داده می شود و<br/>در آینده کامل خواهد شد.</p>
+
+<span>لطفا به صفحه ی اصلی و یا به صفحه ی ثبت نام <br/>که فعلا آماده شده اند بازگردید.</span>
+
+<div id="back">
+
+<p><a href="">صفحه ی اصلی</a></p>
+<p><a href="">صفحه ی ثبت نام</a></p>
+
+</div>
+</div>
+
+
+
+</body>
+</html>
